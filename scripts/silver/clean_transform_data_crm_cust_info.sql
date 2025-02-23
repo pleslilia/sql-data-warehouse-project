@@ -1,4 +1,4 @@
--- Quality Check for BRONZE LAYER
+-- Quality Check for BRONZE LAYER: bronze.crm_cust_info layer
 -- Check for Nulls or Duplicates in Primary Key
 -- Expectation: No Result
 
